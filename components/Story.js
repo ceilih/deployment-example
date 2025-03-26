@@ -83,7 +83,7 @@ if(comments.length > 0) {
             {/* as a challenge, build a comment component using the
             same ideas (is in a whole different link)
             all the comments have ids -- story kids r the comment ids */}
-            <Button size="small" variant="contained" onClick={loadComments}>load comments</Button>
+            {/* <Button size="small" variant="contained" onClick={loadComments}>load comments</Button> */}
         </CardActions>
     </Card>
 }
